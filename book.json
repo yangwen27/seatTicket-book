@@ -1,0 +1,53 @@
+{
+  "plugins": ["hints", "page-ref","code",
+     "livereload", "folding-content", 
+     "emphasize",
+     "-lunr",
+     "-search",
+     "-sharing",
+     "sharing-plus",
+     "tbfed-pagefooter",
+     "search-pro", "ancre-navigation"
+     ],
+  "title": "选座票务消费系统手册",
+  "author":"zl771.cn",
+  "language":"zh-CN",
+  "links":"https://www.zl771.cn",
+  "gitbook":"3.2.3",
+  "pluginsConfig": {
+    "code": {
+      "copyButtons": true
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": true,
+      "linkedin": true,
+      "messenger": false,
+      "pocket": false, 
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban", "facebook", "google", "hatenaBookmark",
+        "instapaper", "linkedin", "twitter", "weibo",
+        "messenger", "qq", "qzone", "viber", "vk", "weibo",
+        "pocket", "stumbleupon", "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy zl771.cn 2021",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+
+}
