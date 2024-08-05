@@ -1,8 +1,0 @@
-details > summary {
-  line-height: 2;
-  cursor: pointer;
-}
-
-details > summary:focus {
-  outline: none;
-}
